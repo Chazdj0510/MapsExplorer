@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="baby_blue">#ADD8E6</color> <!-- Baby Blue -->
+    <color name="sky_blue">#87CEEB</color> <!-- Sky Blue -->
+    <color name="black">#FF000000</color> <!-- Text on baby blue -->
+    <color name="light_pink">#FFC0CB</color> <!-- Light pink accent -->
+    <color name="pink">#FFB6C1</color> <!-- Pinker Pink -->
+
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+
+    <color name="dark_blue">#0D47A1</color> <!-- Dark Blue -->
+    <color name="medium_blue">#1565C0</color> <!-- Medium Blue -->
+
+    <color name="blue">#29B6F6</color> <!-- Blue Accent -->
+    <color name="deep_blue">#0288D1</color> <!-- Deeper Blue Accent -->
+
+    <color name="nightcolorBackground">#121212</color> <!-- Standard dark background -->
+
+    <color name="location_text_primary">#FFFFFF</color> <!-- White for dark mode -->
+    <color name="location_text_secondary">#CCCCCC</color> <!-- Light gray for dark mode -->
+
+    <color name="dark_gray">#555555</color> <!-- Dark gray for light mode -->
+
+</resources>
