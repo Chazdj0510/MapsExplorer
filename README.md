@@ -65,7 +65,7 @@
 
 ## Video Demo
 
-*A video demonstrating the app's functionality is available in the repository's root folder or via this [link](#) (to be added).*
+[Watch the demo video here](https://github.com/Chazdj0510/MapsExplorer/blob/master/demo/MapExplorer.mp4)
 
 ---
 
